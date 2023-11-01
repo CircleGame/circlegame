@@ -1,0 +1,10 @@
+audio.txt
+masterVol | 0
+menuMusicVol | 1
+hitSoundVol | 2
+hitSoundFileName | 3
+
+
+
+game.txt
+default Colors | 0

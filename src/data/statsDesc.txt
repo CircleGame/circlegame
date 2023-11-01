@@ -1,0 +1,45 @@
+playtime (in minutes) | 0
+Games Played | 1
+Circles Clicked | 2
+Circles Missed | 3
+Circefall Played | 4
+Gridshot Played | 5
+Quickshot Played | 6
+Circletrack Played | 7
+
+Normal Gridshot High Score | 8
+Mini Gridshot High Score | 9
+Speed Gridshot High Score | 10
+Wave Gridshot High Score | 11
+Normal Gridshot Average Score | 12
+Mini Gridshot Average Score | 13
+Speed Gridshot Average Score | 14
+Wave Gridshot Average Score | 15
+
+Normal Quickshot High Score | 16
+Mini Quickshot High Score | 17
+React Quickshot High Score | 18
+Normal Quickshot Average Score | 19
+Mini Quickshot Average Score | 20
+React Quickshot Average Score | 21
+
+Horizontal Track High Score | 22
+Multi Track High Score | 23
+2D Track High Score | 24
+Precision Track High Score | 25
+Horizontal Track Average Score | 26
+Multi Track Average Score | 27
+2D Track Average Score | 28
+Precision Track Average Score | 29
+
+Normal Circlefall Endless Record | 30
+Hard Circlefall Endless Record | 31
+Impossible Circlefall Endless Record | 32
+Marathon Highest Score | 33
+Marathon Average Score | 34
+Marathon Highest Wave Reached | 35
+
+
+
+
+
